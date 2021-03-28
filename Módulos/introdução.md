@@ -10,4 +10,29 @@
 ###### 5. Compartilhe
 ###### 6. Ação!
 
-### gHábilidades Chave para um análista de dados
+### Hábilidades Chave para um análista de dados
+- Curiosidade
+- Mindset técnico
+- Enteder o contexto
+- Data design
+- Data strategy
+
+### Pensar analiticamente 
+ ##### 5 Chaves🔑
+ 
+- Visualização 
+- Estratégia
+- Orientado a problemas
+- Correlações
+- "Big picture" e também orientado a detalhes
+
+> Pensar de forma 
+> Analítica e Critavia
+
+### Perguntas  
+#### 1) Qual raiz do problema? -> 5 WHYS 
+![img](https://kanbanize.com/wp-content/uploads/website-images/kanban-resources/5-whys-example.png)
+#### 2) Onde estão os gaps do processo?
+![img](https://www.questionpro.com/blog/wp-content/uploads/2018/08/57-GAP-analysis.jpg)
+
+#### 3) O que não foi considerado anteriormente?
