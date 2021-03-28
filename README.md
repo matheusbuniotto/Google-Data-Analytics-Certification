@@ -14,8 +14,8 @@ Os módulos do curso são divididos conforme as etapas, além delas, há outros 
 
 ### Módulos
 ##### 1. [Introdução](https://github.com/matheusbuniotto/Google-Data-Analytics-Certification/blob/master/M%C3%B3dulos/introdu%C3%A7%C3%A3o.md)
-##### 2. [Pergunte]
-##### 3. [Prepare]
+##### 2. [Pergunte](https://github.com/matheusbuniotto/Google-Data-Analytics-Certification/blob/master/M%C3%B3dulos/pergunte.md)
+##### 3. [Prepare](https://github.com/matheusbuniotto/Google-Data-Analytics-Certification/blob/master/M%C3%B3dulos/prepare.md)
 ##### 4. [Processe]
 ##### 5. [Analise]
 ##### 6. [Compartilhe]
