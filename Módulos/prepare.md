@@ -225,7 +225,7 @@ no spreadsheet existe o version history
 
 no SQL existe o QUERY history
 
-### PAR
+### P.A.R.
 Problema > Ação > Resultado
 - solução de problemas
 
