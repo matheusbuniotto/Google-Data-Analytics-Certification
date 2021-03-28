@@ -10,6 +10,7 @@
 ###### 5. Compartilhe
 ###### 6. Ação!
 
+![img](https://github.com/matheusbuniotto/presets/blob/main/google/Google_img1_Steps%20Analyses.png?raw=true)
 ### Hábilidades Chave para um análista de dados
 - Curiosidade
 - Mindset técnico
@@ -36,3 +37,5 @@
 ![img](https://www.questionpro.com/blog/wp-content/uploads/2018/08/57-GAP-analysis.jpg)
 
 #### 3) O que não foi considerado anteriormente?
+
+
