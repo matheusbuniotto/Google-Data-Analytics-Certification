@@ -39,3 +39,6 @@
 #### 3) O que não foi considerado anteriormente?
 
 
+#### Data Life
+
+![img](https://github.com/matheusbuniotto/presets/blob/main/google/data_lifecycle.png?raw=true)
