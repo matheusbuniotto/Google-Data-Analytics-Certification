@@ -14,10 +14,13 @@ Os módulos do curso são divididos conforme as etapas, além delas, há outros 
 
 ### Módulos
 ##### 1. [Introdução](https://github.com/matheusbuniotto/Google-Data-Analytics-Certification/blob/master/M%C3%B3dulos/introdu%C3%A7%C3%A3o.md)
+> Temas abordados: Etapas para análise de dados, metodologia para solução de problemas, processo analítico.
 ##### 2. [Pergunte](https://github.com/matheusbuniotto/Google-Data-Analytics-Certification/blob/master/M%C3%B3dulos/pergunte.md)
+> Temas abordados: Formular perguntas, entender o negócio, tipos de dados, fontes de dados, estruturação e processos
+
 ##### 3. [Prepare](https://github.com/matheusbuniotto/Google-Data-Analytics-Certification/blob/master/M%C3%B3dulos/prepare.md)
-##### 4. [Processe]
+##### 4. [Processe](https://github.com/matheusbuniotto/Google-Data-Analytics-Certification/blob/master/M%C3%B3dulos/processe.md)
 ##### 5. [Analise]
-##### 6. [Compartilhe]
+##### 6. [Compartilhe] 
 ##### 7. [Ação!]
 ##### 8. [Conclusão]
