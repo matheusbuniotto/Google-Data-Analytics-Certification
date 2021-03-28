@@ -152,7 +152,8 @@ Limpar os dados de diferentes fontes
   - split
   - trim
   - concat
-
+  - 
+ > Atividades práticas no Spreadsheet: AVG, Substring, SPLIT, TRIM, CONCATENAR, VLOOKUP
 #### Otimizando data cleaning
 <b> Funções</b>
 - COUNTIF
@@ -193,6 +194,8 @@ Limpar os dados de diferentes fontes
 - COALESCE
 - CASE
   
+> Atividades práticas no BigQuery: CASE, WITH, WHEN, HAVING, TRIM, SUBSTRNG
+
 [SQL In-depth best pratices](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e100fb53-895c-444f-b56d-b2d24e3b69fa/In-depth-guide_-SQL-best-practices.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210328%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210328T214153Z&X-Amz-Expires=86400&X-Amz-Signature=0e5395d294ce455346ac6a8e4ca467eb0e9842ba682b800e87dd56110f233fa1&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22In-depth-guide_-SQL-best-practices.pdf%22)
 
 ## Verificar os resultados
