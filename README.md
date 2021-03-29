@@ -23,7 +23,7 @@ Os módulos do curso são divididos conforme as etapas, além delas, há outros 
 
 ##### 4. [Processe](https://github.com/matheusbuniotto/Google-Data-Analytics-Certification/blob/master/M%C3%B3dulos/processe.md)
 > Temas abordados: Agregações, SQL, Spreadsheet 
-##### 5. [Análise]
+##### 5. [Análise](https://github.com/matheusbuniotto/Google-Data-Analytics-Certification/blob/265005eab035083a4e1ddd4c161cfcd363f38ca0/M%C3%B3dulos/analise.md)
 > Temas abordados: Spreadsheet, data Analysis, SQL, data Calculations, 
 data Aggregation
 ##### 6. [Compartilhe]  
@@ -32,4 +32,4 @@ data Aggregation
 ##### 7. [Ação!]
  Temas abordados: Programação em R, R Markdown, Data Analysis e visualização
 ##### 8. [Conclusão]
- Temas abordados: Projeto prático 
+ Temas abordados: Projeto prático, estudo de caso, portfólio, análise e visualização
