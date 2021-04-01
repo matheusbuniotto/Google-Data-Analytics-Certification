@@ -57,3 +57,22 @@ O usuário é o centro de tudo!
 - Prototipagem
 - Teste
 
+### Textos
+Seu público entenderá melhor e terá menos dúvidas se você adicionar:
+- Título
+- Subtítulos 
+- Legendas e rótulos
+
+<b>Título </b>
+Matenha simples, acima do gráfico, alinhado a esquerda com uma fonte que o destaque.
+
+<b>Subtítulos</b>
+Adiciona mais informações e contexto ao gráfico
+
+
+<b> Rótulo </b>
+Usar diretamente no gráfico, preferencialmente no gráfico. Use rótulo ao invés de legendas preferencialmente.
+
+![Componentes](https://github.com/matheusbuniotto/presets/blob/main/google/ComponentesVisuais.PNG?raw=true)
+
+
