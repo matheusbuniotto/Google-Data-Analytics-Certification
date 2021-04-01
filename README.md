@@ -27,9 +27,9 @@ Os módulos do curso são divididos conforme as etapas, além delas, há outros 
 > Temas abordados: Spreadsheet, data Analysis, SQL, data Calculations, 
 data Aggregation
 ##### 6. [Compartilhe](https://github.com/matheusbuniotto/Google-Data-Analytics-Certification/blob/73651ea2401cf641ca33a5b3aae7fcd58e72631a/M%C3%B3dulos/visualiza%C3%A7%C3%A3o.md)
- Temas abordados: Spreadsheet, SQL, visualização, tableua, apresentações e reports 
+> Temas abordados: Visualização, tableau, apresentações e reports 
 
 ##### 7. [Ação!]
- Temas abordados: Programação em R, R Markdown, Data Analysis e visualização
+> Temas abordados: Programação em R, R Markdown, Data Analysis e visualização
 ##### 8. [Conclusão]
- Temas abordados: Projeto prático, estudo de caso, portfólio, análise e visualização
+> Temas abordados: Projeto prático, estudo de caso, portfólio, análise e visualização
