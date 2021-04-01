@@ -19,6 +19,8 @@ Objetivos + conclusões + padrões!
 - objetivos
 - forma visual </b>
 
+![power](https://github.com/matheusbuniotto/presets/blob/main/google/powerfulvis.png?raw=true)
+
 
 **2) [Kaiser Fung’s Junk Charts Trifecta Checkup](https://junkcharts.typepad.com/junk_charts/junk-charts-trifecta-checkup-the-definitive-guide.html)**
 
