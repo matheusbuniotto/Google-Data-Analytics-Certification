@@ -32,8 +32,10 @@ This approach is a useful set of questions that can help consumers of data visua
    
 Gráficos e suas utilizações: 
 https://www.tableau.com/learn/articles/best-data-visualization-blogs
+
 https://visme.co/blog/best-data-visualizations/
-https://datavizcatalogue.com/#google_vignette <- :key:
+
+https://datavizcatalogue.com/ <- :key:
 
 
 #### Receita para uma visualização poderosa
