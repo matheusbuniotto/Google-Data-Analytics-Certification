@@ -162,4 +162,24 @@ Os elementos devem ser coesos.
 Compartilhar dashboard significa que você vai perder o controle da narrativa.
 
 
+>atividades práticas
 
+### Comunicar histórias com dados
+
+Estrutura da apresentação
+
+1. <b>Personagem</b>: adicionar informação dos personagens envolvidos
+2. <b>Ambientação</b>: o que está acontecendo, os desafios enfrentados pelo personage,
+3. <b>Plot</b>: o que cria essa tensão, oportunidades
+4. <b>Revelação</b>: como os dados indicam essa solução, levar o personagem a ação
+5. <b>Momento Aha!</b>: compartilhe sua recomendação
+
+### Compartilhando a narrativa
+
+<b> Qual a única coisa mais importante que gostaria que minha audiência aprendesse da minha análise </b>
+ 
+Um novo visual para cada ponto a ser provado.
+
+Conclusões são as coisas mais importantes do slide, faça saltar aos olhos!
+
+Slides com <5 linhas e <25 palavras.
