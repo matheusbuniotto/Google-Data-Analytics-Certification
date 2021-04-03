@@ -30,6 +30,7 @@ data Aggregation
 > Temas abordados: Visualização, tableau, apresentações, reports, design de apresentações e ténicas de apresentação. 
 
 ##### 7. [Ação!]
-> Temas abordados: Programação em R, R Markdown, Data Analysis e visualização
+> Temas abordados: Linguagem R, R Markdown, tidyverse, ggplot2, visualização e análise.
+Rstudio
 ##### 8. [Conclusão]
 > Temas abordados: Projeto prático, estudo de caso, portfólio, análise e visualização
