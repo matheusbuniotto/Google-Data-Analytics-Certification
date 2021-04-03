@@ -269,3 +269,5 @@ Apresente para um colega para receber um feedback e ver as possíveis questões 
 - faça apresentações bonitas com visuais cativantes
 - ### Quão fácil é entender? < prioridade
   
+
+  Certificado de conclusão: [Matheus Buniotto](https://github.com/matheusbuniotto/presets/blob/main/google/pdfs%20certificados/Coursera%20SQC5XB7VP5KA.pdf)
