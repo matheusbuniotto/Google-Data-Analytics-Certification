@@ -183,3 +183,41 @@ Um novo visual para cada ponto a ser provado.
 Conclusões são as coisas mais importantes do slide, faça saltar aos olhos!
 
 Slides com <5 linhas e <25 palavras.
+
+
+### S4 Apresentações
+
+    - Qual é minha audiência
+    - o que eles precisam saber
+
+- Framework de uma boa apresentação
+  - Objetivos da apresentação
+  - Narrativa dos dados
+  - Usar dados para suportar as conclusões
+    - Explicar quais dados foram utilizados
+    - Responder perguntas sobre eles, antes que sejam perguntadas
+  - <b> Explicar a hipótese</b> no início da apresentação
+  - Explicar as soluções com visualizações
+
+##### McCandless Method
+![img](https://images.squarespace-cdn.com/content/v1/5e8f31c8664e7b358a701917/1587470621469-4X3K5WZEFUHSDNE9OW7S/ke17ZwdGBToddI8pDm48kIOyR6w6-oH2IiPWMZr0gVkUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYwL8IeDg6_3B-BRuF4nNrNcQkVuAT7tdErd0wQFEGFSnNX5gCSkKKxnHyceH5ShRSwTwxL8La7g_rv7LURiDxEv5gaxpWAIJbGBhctiwDo6rw/Figure+5.15.png)
+
+<b>Iniciar com os pontos gerais e ir em direção aos pontos mais específicos </b>
+
+<b> Explique por que isso importa </b> -> apresente a solução
+
+"Esses dados ou gráficos apresentados ajudam as pessoas a entender o ponto que estou passando?"
+
+#### Habilidades de apresentação
+- simples e direta
+- divertida e engajante
+- storytelling
+- tenha um aliado na sala (apresente para ele antes, receba um feedback)
+
+<b> Use animações, setas e formas para realçar o foco da apresentação </b>
+
+- Canalise o nervosismo
+- espero 5 seg após apresentar um gráfico para que o público absorva aquela informação, explique seu ponto e aguarde mais 5 seg
+- veja se há alguma dúvida do público
+- se prepare
+  
