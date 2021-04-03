@@ -220,4 +220,52 @@ Slides com <5 linhas e <25 palavras.
 - espero 5 seg após apresentar um gráfico para que o público absorva aquela informação, explique seu ponto e aguarde mais 5 seg
 - veja se há alguma dúvida do público
 - se prepare
+
+<b> Apresente como um pro! </b>
+foque no que o público precisa ouvir
+- Curse of knowledge!(querer explicar tudo o que você sabe ou fez muito detalhadamente)
+
+<b><i> não inclua informações que não são produtivas ou relevantes </b></i>
+
+#### Como falar
+- pausadamente
+- matenha as sentenças curtas
+- mantenha o tom de voz
+- mova-se com propósito
+
+
+#### Limitação dos dados
+Conheça as limitações da sua análise e dos dados.
+
+Atente-se as questões que podem ser levantadas pelos stakeholders
+
+Apresente para um colega para receber um feedback e ver as possíveis questões do público
+
+- Não assuma que sua audiência saiba os jargões, termos e backgrounds da análise
+- Converse com o time para antecipar perguntas
+- Esteja preparado para considerar as limitações dos dados
+  
+- análise correlações e contexto
+- entenda as forças e fraquezas da análise
+
+#### Tipos de Objeções
+- Sobre os dados: apresente a fonte, contexto, e informações, inclusive etapas de tratamento no apéndice quando for necessário
+- Sobre a análise: documente o processo da análise, explique por que os resultados podem ser diferentes dos esperados.
+- Sobre as conclusões
+
+
+#### Q&A melhores práticas
+- Escute a questão
+- repita a questão 
+- entenda o contexto
+- responda de acordo com o interesse do público
+- mantenha as respostas simples e diretas
+
+<b> O análista é o tradutor! </b>
+
+- defina o propósito
+- seja coeso 
+- tenha um fluxo lógico
+- faça apresentações bonitas com visuais cativantes
+- ### Quão fácil é entender? < prioridade
   
