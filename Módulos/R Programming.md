@@ -107,20 +107,92 @@ That’s where pivot_longer()comes in. As part of the tidyr package, you can use
 
 
 
+### S4
+GGplot2
+
+- Aesthetics
+- Geoms
+- Facets
+- Labels e annotations
+
+Os gráficos são criados através de uma combinação de layers
+
+<b>ggplot</b>( data = dataframe) + 
+    <b>geom_point</b>(mapping=aes(x=x,=y)
+
+<b>Sequência gramatical do ggplot</b>
+1. Começar com ggplot e especificar os dados que serão usados
+2. Adicione o geom_function para mostrar os dados
+3. mapeie as variáveis que serão usadas no aes
 
 
+#### Aestehetics
+Através do aesthetics podemos destacar pontos importantes.
+- cor
+- formato
+- tamanho
+  
+Aesthetics para pontos
+- x
+- y
+- color
+- shape
+- alpha
+- size
 
 
+Podemos combinar vários geom
 
 
+geom_jitter
 
 
+geom_bar
+o padrão é contar o número de linhas
+fill -> cor dentro
+
+<b> Facets </b>
+Divide o gráfico 
+facetwrap(~variável)
+
+#### Filtrando os dados
+https://rladiessydney.org/courses/ryouwithme/03-vizwhiz-1/#1-4-putting-it-all-together-dplyr-ggplot
+Example code
+data %>%
+    filter(variable1 == "DS") %>%  
+    ggplot(aes(x = weight, y = variable2, colour = variable1)) +  
+    geom_point(alpha = 0.3,  position = position_jitter()) + stat_smooth(method = "lm")
 
 
+#### Anotações
+
+- Label
+- Annotation
+Direciona a atenção a aspectos importantes dos dados.
+exemplo: ggplot.... + labs(title="Titulo do gráfico")
+- Titles
+- Caption
+- Subtitles
+
+Para antações dentro do gráfico -> annotate
+
+#### Resources
+
+Check out these resources to learn more:
+
+- **[Create an annotation layer](https://ggplot2.tidyverse.org/reference/annotate.html)**: This guide explains how to add an annotation layer with ggplot2. It includes sample code and data visualizations with annotations created in ggplot2.
+- **[How to annotate a plot in ggplot2](https://www.r-graph-gallery.com/233-add-annotations-on-ggplot2-chart.html):** This resource includes explanations about how to add different kinds of annotations to your ggplot2 plots, and is a great reference if you need to quickly look up a specific kind of annotation.
+- **[Annotations](https://ggplot2-book.org/annotations.html):** Chapter eight of the online ggplot2 textbook is focused entirely on annotations. It provides in-depth explanations of the different types of annotations, how they are used, and detailed examples.
+- **[How to annotate a plot](https://www.r-bloggers.com/2017/02/how-to-annotate-a-plot-in-ggplot2/):** This R-Bloggers article includes explanations about how to annotate plots in ggplot2. It starts with basic concepts and covers more complicated information the further on you read.
+- **[Text Annotations](https://viz-ggplot2.rsquaredacademy.com/textann.html):** This resource focuses specifically on adding text annotations and labels to ggplot2 visualizations.
 
 
+### Salvando
+- Export no R Studio
+- ggsave("nome do arquivo.png") -> salva o ultimo gráfico criado
 
 
+## Semana 5
 
 
 
