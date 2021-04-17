@@ -231,6 +231,37 @@ If you want to really explore the capabilities of R Markdown in a systematic way
 
 [R markdown cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
 
+Ctrl Alt I > cria a camada de código
+
+
+### R packages with templates
+
+![https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/TOqxzuNFR2eqsc7jRVdnKg_a3c6611d874f403a923e10406b4f38a9_image4.png?expiry=1618790400000&hmac=NMwHmWrMawEXXGnFim3Vzosb6qpN-lyvNc2puuVx18U](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/TOqxzuNFR2eqsc7jRVdnKg_a3c6611d874f403a923e10406b4f38a9_image4.png?expiry=1618790400000&hmac=NMwHmWrMawEXXGnFim3Vzosb6qpN-lyvNc2puuVx18U)
+
+Some popular packages with templates for R Markdown include the following:
+
+- The **[vitae](https://github.com/mitchelloharawild/vitae)** package contains templates for creating and maintaining a résumé or curriculum vitae (CV)
+- The **[rticles](https://github.com/rstudio/rticles)** package provides templates for various journals and publishers
+- The **[learnr](https://github.com/rstudio/learnr)** package makes it easy to turn any R Markdown document into an interactive tutorial
+- The **[bookdown](https://github.com/rstudio/bookdown)** package facilitates writing books and long-form articles
+- The **[flexdashboard](https://github.com/rstudio/flexdashboard)** package lets you publish a group of related data visualizations as a dashboard
+
+### Install a package with a template
+
+![https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/TOqxzuNFR2eqsc7jRVdnKg_a3c6611d874f403a923e10406b4f38a9_image4.png?expiry=1618790400000&hmac=NMwHmWrMawEXXGnFim3Vzosb6qpN-lyvNc2puuVx18U](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/TOqxzuNFR2eqsc7jRVdnKg_a3c6611d874f403a923e10406b4f38a9_image4.png?expiry=1618790400000&hmac=NMwHmWrMawEXXGnFim3Vzosb6qpN-lyvNc2puuVx18U)
+
+Let’s check out a CV template included in the “vitae” package.
+
+First, open up RStudio and run the install.packages() function to install the package:
+
+**install.packages("vitae")**
+
+Then, load the package:
+
+**library(vitae)**
+
+### Access the template in RStudio
+
 
 
 
