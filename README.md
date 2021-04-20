@@ -29,7 +29,7 @@ data Aggregation
 ##### 6. [Compartilhe](https://github.com/matheusbuniotto/Google-Data-Analytics-Certification/blob/master/M%C3%B3dulos/visualiza%C3%A7%C3%A3o_dados.md)
 > Temas abordados: Visualização, tableau, apresentações, reports, design de apresentações e ténicas de apresentação. 
 
-##### 7. [Ação!]
+##### 7. [Ação!](https://github.com/matheusbuniotto/Google-Data-Analytics-Certification/blob/master/M%C3%B3dulos/R%20Programming.md)
 > Temas abordados: Linguagem R, R Markdown, tidyverse, ggplot2, visualização e análise.
 Rstudio
 ##### 8. [Conclusão]
