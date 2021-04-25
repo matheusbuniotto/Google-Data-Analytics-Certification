@@ -33,4 +33,4 @@ data Aggregation
 > Temas abordados: Linguagem R, R Markdown, tidyverse, ggplot2, visualização e análise.
 Rstudio
 ##### 8. [Conclusão]
-> Temas abordados: Projeto prático, estudo de caso, portfólio, análise e visualização
+> Temas abordados: Estudo de caso, projeto final
